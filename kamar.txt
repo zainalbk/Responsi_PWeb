@@ -1,0 +1,16 @@
+single:tdktersedia
+single:tersedia
+single:tersedia
+single:tersedia
+single:tersedia
+single:tersedia
+double:tersedia
+double:tersedia
+double:tersedia
+double:tersedia
+double:tersedia
+double:tersedia
+suite:tersedia
+suite:tersedia
+suite:tersedia
+suite:tersedia

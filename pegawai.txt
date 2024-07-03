@@ -1,0 +1,2 @@
+pegawai1:password1
+pegawai2:password2
